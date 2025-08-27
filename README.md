@@ -36,4 +36,4 @@ To improve sales in 2023, Vrinda Store should:
 * Focus on **Maharashtra, Karnataka, and Uttar Pradesh**
 * Promote through **Amazon, Flipkart, and Myntra** with tailored **ads, offers, and coupons**
 
- **Dashboard screenshot** (https://github.com/syedsameers/Vrinda-Store-Annual-Report-2022-Excel-Dashboard/blob/main/vrinda%20store%20excel%20dashboard.png)
+ **Dashboard screenshot** ![Vrinda Store Dashboard](https://github.com/syedsameers/Vrinda-Store-Annual-Report-2022-Excel-Dashboard/blob/main/vrinda%20store%20excel%20dashboard.png)
