@@ -36,6 +36,4 @@ To improve sales in 2023, Vrinda Store should:
 * Focus on **Maharashtra, Karnataka, and Uttar Pradesh**
 * Promote through **Amazon, Flipkart, and Myntra** with tailored **ads, offers, and coupons**
 
-**Dashboard Screen Shot** (https://github.com/syedsameers/Vrinda-Store-Annual-Report-2022-Excel-Dashboard/blob/main/vrinda%20store%20excel%20dashboard.png) 
-
-Would you like me to also structure this README with **sections for dashboard screenshots** (so you can just upload and link images from your Power BI report)?
+ **Dashboard screenshot** (https://github.com/syedsameers/Vrinda-Store-Annual-Report-2022-Excel-Dashboard/blob/main/vrinda%20store%20excel%20dashboard.png)
